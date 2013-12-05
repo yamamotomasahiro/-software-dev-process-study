@@ -17,4 +17,7 @@
   Githubサイト上だけでGitに挑戦してみよう！
   http://kozyty.com/blog/2013/03/lets_try_git_at_github/
               
+　レポジトリー 
+ -software-dev-process-study
+ をforkする
  
