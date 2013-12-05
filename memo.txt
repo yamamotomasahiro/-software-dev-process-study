@@ -1,0 +1,20 @@
+１．スケジュール管理
+　　タスク　設計　実装　テスト
+　　それぞれどれくらいの期間でできるのか
+　　it
+２．PM　が開発全体を管理
+　　
+３．ソース管理（バージョン管理）
+　　VSS　
+　　CVS　
+　　SVN　
+　　GIT　
+
+４　GITのクラウドサービス
+ github　git+タスク管理機能
+  
+  https://github.com/
+  Githubサイト上だけでGitに挑戦してみよう！
+  http://kozyty.com/blog/2013/03/lets_try_git_at_github/
+              
+ 
